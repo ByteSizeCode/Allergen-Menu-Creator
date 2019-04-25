@@ -45,7 +45,7 @@
 		6A3F9E8C226A796D00EC3967 = {
 			isa = PBXGroup;
 			children = (
-				6A3F9E97226A796D00EC3967 /* Store */,
+				6A3F9E97226A796D00EC3967 /* Allergy Menu */,
 				6A3F9E96226A796D00EC3967 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,7 +58,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6A3F9E97226A796D00EC3967 /* Store */ = {
+		6A3F9E97226A796D00EC3967 /* Allergy Menu */ = {
 			isa = PBXGroup;
 			children = (
 				6A3F9EBD226A7AB300EC3967 /* LaunchScreen.storyboard */,
@@ -68,7 +68,7 @@
 				6A3F9EB0226A7AA400EC3967 /* Views */,
 				6A3F9E9F226A796E00EC3967 /* Assets.xcassets */,
 			);
-			path = Store;
+			path = "Allergy Menu";
 			sourceTree = "<group>";
 		};
 		6A3F9EAA226A7AA400EC3967 /* Classes */ = {
@@ -315,7 +315,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Store/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Allergy Menu/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -334,7 +334,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Store/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Allergy Menu/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
