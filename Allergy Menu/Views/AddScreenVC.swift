@@ -24,7 +24,6 @@ class AddScreen: UIViewController {
         items = AppDelegate.menu
 
         tableView.reloadData()
-        
     }
 }
 
@@ -67,8 +66,3 @@ extension AddScreen: UITableViewDataSource, UITableViewDelegate {
         }
     }
 }
-
-
-
-
-
