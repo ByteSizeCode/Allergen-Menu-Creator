@@ -56,7 +56,6 @@ class DetailsVC: UIViewController {
         //Create object and add to Menu
         AppDelegate.menu.append(Item(title: title, containsGluten: gluten, containsSoy: soy, containsDairy: dairy, fullListAllergens: allergenList))
         
-        
         //Go back to previous view controller
         dismiss(animated: true, completion: nil)
     }
