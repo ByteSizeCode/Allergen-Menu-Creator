@@ -6,8 +6,6 @@
 //  Copyright © 2019 Isaac Raval. All rights reserved.
 //
 
-//TODO: create imageview programatically and label programatically. Create allergy menu sheet. Implement share functionality and share as PDF to all sources shown in share sheet.
-
 import UIKit
 
 class DetailsVC: UIViewController {
