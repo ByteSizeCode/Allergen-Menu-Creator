@@ -31,7 +31,6 @@ class AllergenMenuVC: UIViewController, UIScrollViewDelegate {
                 addAllergenIndicatorFor(name: "Soy")
             }
         }
-    
     }
     
     func createItemLabel (name:String) {
